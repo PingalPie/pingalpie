@@ -23,6 +23,8 @@ const AboutMe = {
   </a>
 </p>
 
+
+
 <a href="https://discord.com/users/662142170970456076">
      <img src="https://lanyard.cnrad.dev/api/662142170970456076" width="400" height="200" />
 </a>
