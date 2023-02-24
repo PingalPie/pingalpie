@@ -19,7 +19,7 @@ const AboutMe = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,emacs,vim,git,html" />
+    <img src="https://skillicons.dev/icons?i=py,emacs,vim,git,html,css" />
   </a>
 </p>
 
