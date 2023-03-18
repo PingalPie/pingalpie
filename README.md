@@ -27,5 +27,5 @@ const AboutMe = {
 
 
 <a href="https://discord.com/users/662142170970456076">
-     <img src="https://lanyard.cnrad.dev/api/662142170970456076" width="400" height="200" />
+     <img src="https://discord.c99.nl/widget/theme-3/662142170970456076.png" width="400" height="200" />
 </a>
