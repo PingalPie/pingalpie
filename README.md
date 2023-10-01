@@ -5,8 +5,9 @@ const AboutMe = {
   Name: "PingalPie",
   Age: 14,
   Pronouns: ["He", "Him"],
+  Birthday🎂: 05-10,
   Hobbies: [
-   "Coding", "Chess", "Listening to music" 
+   "Coding", "Chess", "Solving Math", "Listening to music" 
   ]
 }
 ```
