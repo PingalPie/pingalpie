@@ -13,7 +13,7 @@ const AboutMe = {
 
 #### I’m a Student, Web Developer, and Linux Enthusiast. 
 
-!(yeye)[https://media.discordapp.net/attachments/870569585772994631/1001429472760827984/1001000810483830847_1.gif]
+![yeye](https://media.discordapp.net/attachments/870569585772994631/1001429472760827984/1001000810483830847_1.gif)
 
 ## Skills 🚀
 
