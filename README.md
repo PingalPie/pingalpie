@@ -3,7 +3,7 @@
 ```js
 const AboutMe = {
   Name: "PingalPie",
-  Age: 14,
+  Age: 15,
   Pronouns: ["He", "Him"],
   Birthday🎂: 05-10,
   Hobbies: [
