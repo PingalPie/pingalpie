@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I am <b> <a href="https://pingalpie..in"> PingalPie</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
+
+
+<h1 align="center">🚀Hi there, I am <b> <a href="https://pingalpie..in"> PingalPie</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
 
 ```js
 const AboutMe = {
@@ -10,6 +12,8 @@ const AboutMe = {
   ]
 }
 ```
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,git,aws,docker,kubernetes,jenkins,bash,c,perl,rust,emacs,flask,arch,devto,bots,linux,md,neovim)](https://pingalpie.vercel.app/dashboard)
 
 #### I’m a Student, Coder, and Linux Enthusiast. 
 
