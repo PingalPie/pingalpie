@@ -1,12 +1,12 @@
 
 
-<h1 align="center">🚀Hi there, I am <b> <a href="https://pingalpie..in"> PingalPie</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
+<h1 align="center">🚀 Hi there, I am <b> <a href="https://pingalpie..in"> PingalPie</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
 
 ```js
 const AboutMe = {
   Name: "PingalPie",
   Pronouns: ["He", "Him"],
-  contact: "https://linktr.ee/pingalpie",
+  contact: "https://pingalpie.vercel.app/contact",
   Hobbies: [
    "Coding", "Chess", "Solving Math", "Listening to music" 
   ]
